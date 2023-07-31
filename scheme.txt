@@ -1,0 +1,11 @@
+packet structure
+
+event : data
+
+mouse_move:0,0 <-- Absolute coords for now
+
+mouse_click:left <- all types [left, middle, right, scroll_up, scroll_down]
+
+keyboard_keydown:key
+
+keyboard_keyup:key
